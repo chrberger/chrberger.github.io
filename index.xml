@@ -2,146 +2,146 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Engineer | Researcher. on Software Engineer | Researcher.</title>
-    <link>https://chrberger.github.io/index.xml</link>
+    <link>https://chrberger.github.io/</link>
     <description>Recent content in Software Engineer | Researcher. on Software Engineer | Researcher.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Christian Berger</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Scaling Agile Development in Mechatronic Organizations - A Comparative Case Study</title>
+      <link>https://chrberger.github.io/publication/eb17/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/eb17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containerized Development and Microservices for Self-Driving Vehicles: Experiences &amp; Best Practices</title>
+      <link>https://chrberger.github.io/publication/bnb17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/bnb17/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Systematic Evaluation of Sandboxed Software Deployment for Real-time Software on the Example of a Self-Driving Heavy Vehicle</title>
-      <link>https://chrberger.github.io/publication/MTA&#43;16/</link>
+      <link>https://chrberger.github.io/publication/mta&#43;16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/MTA&#43;16/</guid>
+      <guid>https://chrberger.github.io/publication/mta&#43;16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Encapsulated Software Build Environments on the Example of a Self-Driving Heavy Vehicle</title>
-      <link>https://chrberger.github.io/publication/Ber16/</link>
+      <link>https://chrberger.github.io/publication/ber16/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/Ber16/</guid>
+      <guid>https://chrberger.github.io/publication/ber16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyzing defect inflow distribution and applying Bayesian inference method for software defect prediction in large software projects</title>
-      <link>https://chrberger.github.io/publication/Rana2016229/</link>
+      <link>https://chrberger.github.io/publication/rana2016229/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/Rana2016229/</guid>
+      <guid>https://chrberger.github.io/publication/rana2016229/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unveiling Anomalies and Their Impact on Software Quality in Model-Based Automotive Software Revisions with Software Metrics and Domain Experts</title>
-      <link>https://chrberger.github.io/publication/SBS&#43;16/</link>
+      <link>https://chrberger.github.io/publication/sbs&#43;16/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/SBS&#43;16/</guid>
+      <guid>https://chrberger.github.io/publication/sbs&#43;16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Open Continuous Deployment Infrastructure for a Self-driving Vehicle Ecosystem</title>
-      <link>https://chrberger.github.io/publication/Ber16a/</link>
+      <link>https://chrberger.github.io/publication/ber16a/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/Ber16a/</guid>
+      <guid>https://chrberger.github.io/publication/ber16a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Experimentation on Cyber-Physical Systems: Challenges and Opportunities</title>
-      <link>https://chrberger.github.io/publication/GYBC16/</link>
+      <link>https://chrberger.github.io/publication/gybc16/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/GYBC16/</guid>
+      <guid>https://chrberger.github.io/publication/gybc16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards State-of-the-Art and Future Trends in Testing of Active Safety Systems</title>
-      <link>https://chrberger.github.io/publication/KBE16/</link>
+      <link>https://chrberger.github.io/publication/kbe16/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/KBE16/</guid>
+      <guid>https://chrberger.github.io/publication/kbe16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Message Restructuring Using Model-Driven Engineering</title>
-      <link>https://chrberger.github.io/publication/YGA&#43;16/</link>
+      <link>https://chrberger.github.io/publication/yga&#43;16/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/YGA&#43;16/</guid>
+      <guid>https://chrberger.github.io/publication/yga&#43;16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Subjective Assessment of Vehicle Dynamics Evaluations by means of Computer-Tablets as Digital Aid</title>
-      <link>https://chrberger.github.io/publication/GVB&#43;16/</link>
+      <link>https://chrberger.github.io/publication/gvb&#43;16/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/GVB&#43;16/</guid>
+      <guid>https://chrberger.github.io/publication/gvb&#43;16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic Evaluation of Three Data Marshalling Approaches for Distributed Software Systems</title>
-      <link>https://chrberger.github.io/publication/AGBC15/</link>
+      <link>https://chrberger.github.io/publication/agbc15/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/AGBC15/</guid>
+      <guid>https://chrberger.github.io/publication/agbc15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Bandwidth Efficiency with Self-Adaptation for Data Marshalling on the Example of a Self-Driving Miniature Car</title>
-      <link>https://chrberger.github.io/publication/GABC15/</link>
+      <link>https://chrberger.github.io/publication/gabc15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/GABC15/</guid>
+      <guid>https://chrberger.github.io/publication/gabc15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing Continuous Deployment with Lightweight Multi-Platform Throw-Away Containers</title>
-      <link>https://chrberger.github.io/publication/Ber15b/</link>
+      <link>https://chrberger.github.io/publication/ber15b/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/Ber15b/</guid>
+      <guid>https://chrberger.github.io/publication/ber15b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerating Regression Testing for Scaled Self-Driving Cars with Lightweight Virtualization - A Case Study</title>
-      <link>https://chrberger.github.io/publication/Ber15c/</link>
+      <link>https://chrberger.github.io/publication/ber15c/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/Ber15c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Challenges from Integration Testing using Interconnected Hardware-in-the-Loop Test Rigs at an Automotive OEM - An Industrial Experience Report</title>
-      <link>https://chrberger.github.io/publication/BSH15/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrberger.github.io/publication/BSH15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparing the Applicability of Complexity Measurements for Simulink Models during Integration Testing - An Industrial Case Study</title>
-      <link>https://chrberger.github.io/publication/SBHS15/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrberger.github.io/publication/SBHS15/</guid>
+      <guid>https://chrberger.github.io/publication/ber15c/</guid>
       <description></description>
     </item>
     
