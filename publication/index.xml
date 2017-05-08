@@ -29,6 +29,24 @@
     </item>
     
     <item>
+      <title>Paving the Roadway for Safety of Automated Vehicles: An Empirical Study on Testing Challenges</title>
+      <link>https://chrberger.github.io/publication/ksbe17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/ksbe17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software-Related Challenges of Testing Automated Vehicles</title>
+      <link>https://chrberger.github.io/publication/ksbe17a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/ksbe17a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Systematic Evaluation of Sandboxed Software Deployment for Real-time Software on the Example of a Self-Driving Heavy Vehicle</title>
       <link>https://chrberger.github.io/publication/mta&#43;16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://chrberger.github.io/publication/gabc15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testing Continuous Deployment with Lightweight Multi-Platform Throw-Away Containers</title>
-      <link>https://chrberger.github.io/publication/ber15b/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrberger.github.io/publication/ber15b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accelerating Regression Testing for Scaled Self-Driving Cars with Lightweight Virtualization - A Case Study</title>
-      <link>https://chrberger.github.io/publication/ber15c/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrberger.github.io/publication/ber15c/</guid>
       <description></description>
     </item>
     
