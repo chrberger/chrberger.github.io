@@ -11,11 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Paving the Roadway for Safety of Automated Vehicles: An Empirical Study on Testing Challenges</title>
+      <link>https://chrberger.github.io/publication/ksbe17/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/ksbe17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scaling Agile Development in Mechatronic Organizations - A Comparative Case Study</title>
       <link>https://chrberger.github.io/publication/eb17/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://chrberger.github.io/publication/eb17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software-Related Challenges of Testing Automated Vehicles</title>
+      <link>https://chrberger.github.io/publication/ksbe17a/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/ksbe17a/</guid>
       <description></description>
     </item>
     
@@ -29,20 +47,11 @@
     </item>
     
     <item>
-      <title>Paving the Roadway for Safety of Automated Vehicles: An Empirical Study on Testing Challenges</title>
-      <link>https://chrberger.github.io/publication/ksbe17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Design Criteria to Architect Continuous Experimentation for Self-Driving Vehicles</title>
+      <link>https://chrberger.github.io/publication/gb17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chrberger.github.io/publication/ksbe17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software-Related Challenges of Testing Automated Vehicles</title>
-      <link>https://chrberger.github.io/publication/ksbe17a/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrberger.github.io/publication/ksbe17a/</guid>
+      <guid>https://chrberger.github.io/publication/gb17/</guid>
       <description></description>
     </item>
     
@@ -133,15 +142,6 @@
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://chrberger.github.io/publication/agbc15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving Bandwidth Efficiency with Self-Adaptation for Data Marshalling on the Example of a Self-Driving Miniature Car</title>
-      <link>https://chrberger.github.io/publication/gabc15/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrberger.github.io/publication/gabc15/</guid>
       <description></description>
     </item>
     

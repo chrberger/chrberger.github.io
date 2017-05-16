@@ -24,11 +24,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://chrberger.github.io/publication/ksbe17/">
+  <link rel="canonical" href="https://chrberger.github.io/publication/gb17/">
 
   
 
-  <title>Paving the Roadway for Safety of Automated Vehicles: An Empirical Study on Testing Challenges | Software Engineer | Researcher.</title>
+  <title>Design Criteria to Architect Continuous Experimentation for Self-Driving Vehicles | Software Engineer | Researcher.</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -88,10 +88,10 @@
 
   <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="pub-title">
-      <h1 itemprop="name">Paving the Roadway for Safety of Automated Vehicles: An Empirical Study on Testing Challenges</h1>
+      <h1 itemprop="name">Design Criteria to Architect Continuous Experimentation for Self-Driving Vehicles</h1>
       <span class="pub-authors" itemprop="author">
         
-        Knauss, Alessia and Schroeder, Jan and Berger, Christian and Eriksson, Henrik
+        Giaimo, Federico and Berger, Christian
         
       </span>
       <span class="pull-right">
@@ -100,35 +100,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fchrberger.github.io%2fpublication%2fksbe17%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fchrberger.github.io%2fpublication%2fgb17%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Paving%20the%20Roadway%20for%20Safety%20of%20Automated%20Vehicles%3a%20An%20Empirical%20Study%20on%20Testing%20Challenges&amp;url=https%3a%2f%2fchrberger.github.io%2fpublication%2fksbe17%2f"
+         href="https://twitter.com/intent/tweet?text=Design%20Criteria%20to%20Architect%20Continuous%20Experimentation%20for%20Self-Driving%20Vehicles&amp;url=https%3a%2f%2fchrberger.github.io%2fpublication%2fgb17%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fchrberger.github.io%2fpublication%2fksbe17%2f&amp;title=Paving%20the%20Roadway%20for%20Safety%20of%20Automated%20Vehicles%3a%20An%20Empirical%20Study%20on%20Testing%20Challenges"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fchrberger.github.io%2fpublication%2fgb17%2f&amp;title=Design%20Criteria%20to%20Architect%20Continuous%20Experimentation%20for%20Self-Driving%20Vehicles"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fchrberger.github.io%2fpublication%2fksbe17%2f&amp;title=Paving%20the%20Roadway%20for%20Safety%20of%20Automated%20Vehicles%3a%20An%20Empirical%20Study%20on%20Testing%20Challenges"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fchrberger.github.io%2fpublication%2fgb17%2f&amp;title=Design%20Criteria%20to%20Architect%20Continuous%20Experimentation%20for%20Self-Driving%20Vehicles"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Paving%20the%20Roadway%20for%20Safety%20of%20Automated%20Vehicles%3a%20An%20Empirical%20Study%20on%20Testing%20Challenges&amp;body=https%3a%2f%2fchrberger.github.io%2fpublication%2fksbe17%2f">
+         href="mailto:?subject=Design%20Criteria%20to%20Architect%20Continuous%20Experimentation%20for%20Self-Driving%20Vehicles&amp;body=https%3a%2f%2fchrberger.github.io%2fpublication%2fgb17%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -142,14 +142,14 @@
     
 
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">The technology in the area of automated vehicles is gaining speed and promises many advantages. However, with the recent introduction of conditionally automated driving, we have also seen accidents. Test protocols for both, conditionally automated (e.g., on highways) and automated vehicles do not exist yet and leave researchers and practitioners with different challenges. For instance, current test procedures do not suffice for fully automated vehicles, which are supposed to be completely in charge for the driving task and have no driver as a back up. This paper presents current challenges of testing the functionality and safety of automated vehicles derived from conducting focus groups and interviews with 26 participants from five countries having a background related to testing automotive safety-related topics.We provide an overview of the state-of-practice of testing active safety features as well as challenges that needs to be addressed in the future to ensure safety for automated vehicles. The major challenges identified through the interviews and focus groups, enriched by literature on this topic are related to 1) virtual testing and simulation, 2) safety, reliability, and quality, 3) sensors and sensor models, 4) required scenario complexity and amount of test cases, and 5) handover of responsibility between the driver and the vehicle.</p>
+    <p class="pub-abstract" itemprop="text">The software powering today&#39;s vehicles surpasses mechatronics as the dominating engineering challenge due to its fast evolving and innovative nature. In addition, the software and system architecture for upcoming vehicles with automated driving functionality is already processing ~750MB/s - corresponding to over 180 simultaneous 4K-video streams from popular video-on-demand services. Hence, self-driving cars will run so much software to resemble small data centers on wheels rather than just transportation vehicles. Continuous Integration, Deployment, and Experimentation have been successfully adopted for software-only products as enabling methodology for feedback-based software development. For example, a popular search engine conducts ~250 experiments each day to improve the software based on its users&#39; behavior. This work investigates design criteria for the software architecture and the corresponding software development and deployment process for complex cyber-physical systems, with the goal of enabling Continuous Experimentation as a way to achieve continuous software evolution. Our research involved reviewing related literature on the topic to extract relevant design requirements. The study is concluded by describing the software development and deployment process and software architecture adopted by our self-driving vehicle laboratory, both based on the extracted criteria.</p>
 
     <div class="row">
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Proceedings of Intelligent Vehicle Symposium (IV)</div>
+          <div class="col-xs-12 col-sm-9">Proceedings of the International Conference on Software Architecture (ICSA)</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -162,7 +162,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            May, 2017
+            April, 2017
           </div>
         </div>
       </div>
@@ -181,6 +181,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline" href="http://arxiv.org/abs/1705.05170">
+  PDF
+</a>
 
 
 
@@ -206,10 +210,13 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://chrberger.github.io/publication/eb17/"><span
-      aria-hidden="true">&larr;</span> Scaling Agile Development in Mechatronic Organizations - A Comparative Case Study</a></li>
+    <li class="previous"><a href="https://chrberger.github.io/publication/mta&#43;16/"><span
+      aria-hidden="true">&larr;</span> Systematic Evaluation of Sandboxed Software Deployment for Real-time Software on the Example of a Self-Driving Heavy Vehicle</a></li>
     
 
+    
+    <li class="next"><a href="https://chrberger.github.io/publication/bnb17/">Containerized Development and Microservices for Self-Driving Vehicles: Experiences &amp; Best Practices <span
+      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
