@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The Best Rated Human-Machine Interface Design for Autonomous Vehicles in the 2016 Grand Cooperative Driving Challenge</title>
+      <link>https://chrberger.github.io/publication/bbm17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/bbm17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>When to Use What Data Set for Your Self-Driving Car Algorithm: An Overview of Publicly Available Driving Datasets</title>
       <link>https://chrberger.github.io/publication/yb17b/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://chrberger.github.io/publication/sbs&#43;16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Open Continuous Deployment Infrastructure for a Self-driving Vehicle Ecosystem</title>
-      <link>https://chrberger.github.io/publication/ber16a/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrberger.github.io/publication/ber16a/</guid>
       <description></description>
     </item>
     
