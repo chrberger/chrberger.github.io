@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Software Engineer | Researcher.</title>
+    <link>https://chrberger.github.io/home/</link>
+    <description>Recent content in Homes on Software Engineer | Researcher.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Christian Berger</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chrberger.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://chrberger.github.io/home/mission/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/home/mission/</guid>
+      <description>Vision &amp;amp; Mission More and more products for our daily life are driven by software that is simultaneously processing and producing a growing amount of data.
+A self-driving vehicle is a perfect example for a complex system that has to deal with an increasing amount of realtime data but that also benefits from enormous amounts of data from the past for machine learning.
+Therefore, a self-driving car needs to be perceived as a &amp;ldquo;data center on robotic wheels&amp;rdquo;, where appropriate engineering, maintenance, and innovation methods are required.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chrberger.github.io/home/about/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/home/about/</guid>
+      <description>Dr. Christian Berger is Associate Professor and Docent for Software Engineering at the Department of Computer Science and Engineering at University of Gothenburg, Sweden. His research focuses on systematically architecting complex software and systems embracing continuous integration (CI), continuous deployment (CD), and continuous experimentation (CE) for a growingly automated and digitalized society.
+He is an expert for self-driving vehicles with over a decade of experience:
+ Coordinating &amp;ldquo;Team CarOLO&amp;rdquo; (summary|videos) from Technische Universität Braunschweig, Germany - the best European contestant at the 2007 DARPA Urban Challenge Collaborating with Berkeley&amp;rsquo;s Drive Lab (summary) Supervising student teams from Chalmers University of Technology and University of Gothenburg at CaroloCup student competition for self-driving miniature cars: 2013 (first prize), 2014, 2015, 2016, 2017 Supporting &amp;ldquo;Chalmers Truck Team&amp;rdquo; at 2016 Grand Cooperative Driving Challenge (first prize for best HMI) Co-coordinating the research project COPPLAR to develop a self-driving vehicle for urban scenarios Supporting Wallenberg Autonomous Systems and Software Program (WASP) as member of the Graduate School Management Group Autonomous Systems and the Demonstrator Management Group  He is the lead engineer for the world&amp;rsquo;s first single-file, header-only C++ middleware libcluon (docs|tutorials|source|Docker) and jointly leads the design and development of the open source platform Open Driverless Vehicle (OpenDLV) (source|Twitter).</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://chrberger.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://chrberger.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://chrberger.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/home/teaching/</guid>
+      <description> DIT-022: Mathematical Foundations for Software Engineering at University of Gothenburg, Sweden DIT-168: Industrial IT and Embedded Systems at University of Gothenburg, Sweden 16WS-46041: Generative Aspects of Software Development in the Automotive Domain at RWTH Aachen University, Germany  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://chrberger.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/home/contact/</guid>
+      <description>Privacy Notice
+When accessing this website, a visitor&amp;rsquo;s web-browser is automatically providing information about the resource to be loaded, the IP address to which the resource shall be transferred to, and dependent on a visitor&amp;rsquo;s web-browser potentially information from previous visits. The content for this website is hosted at github.io, a website service provided by GitHub, Inc. Details about their privacy policy can be found here.
+The content from this website is provided via github.</description>
+    </item>
+    
+  </channel>
+</rss>
