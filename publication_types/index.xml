@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types on Software Engineer | Researcher.</title>
+    <link>https://chrberger.github.io/publication_types/</link>
+    <description>Recent content in Publication_types on Software Engineer | Researcher.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Christian Berger</copyright>
+    
+	<atom:link href="https://chrberger.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

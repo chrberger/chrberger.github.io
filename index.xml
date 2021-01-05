@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Engineer | Researcher. on Software Engineer | Researcher.</title>
+    <link>https://chrberger.github.io/</link>
+    <description>Recent content in Software Engineer | Researcher. on Software Engineer | Researcher.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Christian Berger</copyright>
+    <lastBuildDate>Fri, 30 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Environmental Factors for Measurement and Prediction of Software Growth in the Automotive Industry</title>
+      <link>https://chrberger.github.io/publication/sb21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/sb21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formally Robust and Safe Trajectory Synthesis and Tracking for Autonomous Vehicles</title>
+      <link>https://chrberger.github.io/publication/ybbk21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/ybbk21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPM-Frame: A Decision Framework for Executing Software on Heterogeneous Platforms</title>
+      <link>https://chrberger.github.io/publication/abb&#43;21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/abb&#43;21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance analysis of out-of-distribution detection on trained neural networks</title>
+      <link>https://chrberger.github.io/publication/hbb&#43;21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/hbb&#43;21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traction Adaptive Motion Planning at the Limits of Handling</title>
+      <link>https://chrberger.github.io/publication/sbk&#43;21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/sbk&#43;21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Measuring Maintainability of Simulink Models</title>
+      <link>https://chrberger.github.io/publication/sba&#43;21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/sba&#43;21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous experimentation and the cyber-physical systems challenge: An overview of the literature and the industrial perspective</title>
+      <link>https://chrberger.github.io/publication/gab20/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/gab20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principles for Re-architecting Software for Heterogeneous Platforms</title>
+      <link>https://chrberger.github.io/publication/sbcb20/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/sbcb20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive monitoring for autonomous vehicles using the HAFLoop architecture</title>
+      <link>https://chrberger.github.io/publication/zfmb20b/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/zfmb20b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous experimentation for automotive software on the example of a heavy commercial vehicle in daily operation</title>
+      <link>https://chrberger.github.io/publication/gb20/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/gb20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HAFLoop: An architecture for supporting Highly Adaptive Feedback Loops in self-adaptive systems</title>
+      <link>https://chrberger.github.io/publication/zfmb20/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/zfmb20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic benchmarking for reproducibility of computer vision algorithms for real-time systems: The example of optic flow estimation</title>
+      <link>https://chrberger.github.io/publication/nbb19/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/nbb19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of Technical Debt: An Exploratory Study</title>
+      <link>https://chrberger.github.io/publication/mms&#43;19/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/mms&#43;19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of Out-of-Distribution Detection on Various Trained Neural Networks</title>
+      <link>https://chrberger.github.io/publication/hbb&#43;19/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/hbb&#43;19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Structured Evaluation of Deep Neural Network Supervisors</title>
+      <link>https://chrberger.github.io/publication/hbb&#43;19b/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/hbb&#43;19b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
